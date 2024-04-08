@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sarangk2024
+- 👋 Hi, I’m Sarang k
 - 👀 I’m interested in ... web developing
 - 🌱 I’m currently learning ...css, javascript, bootstrap,nodjs etc
 - 💞️ I’m looking to collaborate on ...
