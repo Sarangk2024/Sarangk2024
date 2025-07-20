@@ -32,7 +32,6 @@
 
 
 <!--START_SECTION:metrics-->
-![Metrics](https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/main/github-metrics.svg)
 ## 📊 GitHub Metrics
 
 ![GitHub Metrics](https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/main/github-metrics.svg)
