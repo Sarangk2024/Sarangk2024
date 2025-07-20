@@ -29,3 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarangk2024&show_icons=true&locale=en" alt="sarangk2024" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarangk2024&" alt="sarangk2024" /></p>
+
+
+<!--START_SECTION:metrics-->
+![GitHub metrics](https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/github-metrics/profile-3d-contrib/profile-3d-contrib.svg)
+<!--END_SECTION:metrics-->
+
