@@ -32,6 +32,6 @@
 
 
 <!--START_SECTION:metrics-->
-![GitHub metrics](https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/github-metrics/profile-3d-contrib/profile-3d-contrib.svg)
+![Metrics](https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/github-metrics.svg)
 <!--END_SECTION:metrics-->
 
