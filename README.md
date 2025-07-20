@@ -35,7 +35,7 @@
 ![Metrics](https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/main/github-metrics.svg)
 ## 📊 GitHub Metrics
 
-![GitHub Metrics](metrics_renders/github-metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/main/github-metrics.svg)
 
 
 <!--END_SECTION:metrics-->
