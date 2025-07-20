@@ -32,6 +32,7 @@
 
 
 <!--START_SECTION:metrics-->
-![Metrics](https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/main/github-metrics.svg)
+
 <!--END_SECTION:metrics-->
 
