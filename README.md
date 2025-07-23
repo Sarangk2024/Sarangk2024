@@ -4,8 +4,7 @@
  <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
-</div>
+ </div>
 <div align="center">
 
 [![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
@@ -17,9 +16,6 @@
 </div>
 
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarangk2024" alt="sarangk2024" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Node.js, Tailwind CSS, Django, and Web3 development**
 
@@ -34,6 +30,9 @@
 - 📫 How to reach me **kuttappisarang629@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+* **LinkedIn:** [https://www.linkedin.com/in/sarang-k-37073226b/](https://www.linkedin.com/in/your-profile)
+* **Email:** [kuttappisarang629@gmail.com](mailto:youremail@example.com)
 <p align="left">
 </p>
 
