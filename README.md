@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarang k</h1>
 <h3 align="center">Full Stack Developer | Flutter | ASP.NET | UI/UX Designer | Python</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarangk2024&label=Profile%20views&color=0e75b6&style=flat" alt="sarangk2024" /> </p>
+
  <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Profile Trophy</h2>
