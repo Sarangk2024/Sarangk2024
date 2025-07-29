@@ -16,7 +16,9 @@
 [![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
 
 </div>
-
+<div>
+   ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
+</div>
 
 
 - 🌱 I’m currently learning **React.js, Node.js, Tailwind CSS, Django, and Web3 development**
