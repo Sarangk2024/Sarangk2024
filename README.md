@@ -17,8 +17,9 @@
 
 </div>
 <div>
-   ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
+   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" />
 </div>
+
 
 
 - 🌱 I’m currently learning **React.js, Node.js, Tailwind CSS, Django, and Web3 development**
