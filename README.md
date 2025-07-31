@@ -22,7 +22,7 @@
 ## 🏆 GitHub Achievements
 
 <img src="Quickdeaw.png" width="80" alt="Starstruck"> 
-<img src="PullShark" width="80" alt="Arctic Code Vault Contributor">
+<img src="PullShark.png" width="80" alt="Arctic Code Vault Contributor">
 
 
 
