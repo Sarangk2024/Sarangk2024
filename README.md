@@ -17,7 +17,7 @@
 
 </div>
 <div>
-   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" />
+   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" width="80" />
 </div>
 
 ## 🏆 GitHub Achievements
@@ -41,8 +41,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-* **LinkedIn:** [https://www.linkedin.com/in/sarang-k-37073226b/](https://www.linkedin.com/in/your-profile)
-* **Email:** [kuttappisarang629@gmail.com](mailto:youremail@example.com)
+- **LinkedIn:** [Sarang K](https://www.linkedin.com/in/sarangk2003)
+* **Email:** [Mail me](mailto:kuttappisarang629@gmail.com)
 <p align="left">
 </p>
 
