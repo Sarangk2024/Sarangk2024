@@ -81,22 +81,20 @@ I'm a passionate **Full Stack Developer** with a strong foundation in cross-plat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarangk2024&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangk2024&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarangk2024&theme=radical" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarangk2024&theme=radical" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sarangk2024&theme=tokyonight&border_radius=10" width="65%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sarangk2024&theme=radical" width="65%" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Metrics
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sarangk2024&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Sarangk2024/Sarangk2024/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 ---
@@ -104,7 +102,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in cross-plat
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarangk2024&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarangk2024&theme=radical&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
