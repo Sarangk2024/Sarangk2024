@@ -81,12 +81,12 @@ I'm a passionate **Full Stack Developer** with a strong foundation in cross-plat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarangk2024&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangk2024&layout=compact&theme=tokyonight&border_radius=10" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarangk2024&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangk2024&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800&langs_count=8" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarangk2024&theme=tokyonight&border_radius=10" width="65%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sarangk2024&theme=tokyonight&border_radius=10" width="65%" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -113,15 +113,15 @@ I'm a passionate **Full Stack Developer** with a strong foundation in cross-plat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarangk2003" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sarang%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:kuttappisarang629@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kuttappisarang629@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://threejs-1-wmoh.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-threejs--1--wmoh.onrender.com-6C63FF?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
