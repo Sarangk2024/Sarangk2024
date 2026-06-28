@@ -150,5 +150,10 @@ I'm a **Software Developer** and **Full Stack Developer** passionate about build
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3200&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub!+👋;Software+Developer+%7C+Full+Stack+Developer;Building+scalable+applications+🚀;Passionate+about+Backend+Development;Exploring+AWS+Cloud+☁️;Learning+Agentic+AI+🤖;Open+to+collaboration+and+opportunities!"/>
+</p>
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" />
 </p>
