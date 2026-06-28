@@ -21,14 +21,31 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with a strong foundation in cross-platform mobile development, web technologies, and UI/UX design. I enjoy building elegant, high-performance applications and am currently expanding my expertise into **Web3** and the **decentralized web**.
+I'm a **Software Developer** and **Full Stack Developer** passionate about building scalable, user-centric applications. I enjoy developing robust backend systems, responsive web applications, and intuitive user interfaces while following clean architecture and software engineering best practices. With experience in **UI/UX design**, I strive to create products that are both functional and visually engaging. I'm continuously expanding my expertise in **AWS Cloud, Agentic AI, System Design, and modern software development**.
 
-- 🔭 All my projects are available at **[My Portfolio](https://threejs-1-wmoh.onrender.com)**
-- 🌱 Currently learning **React.js · Node.js · Tailwind CSS · Django · Web3**
-- 👯 Open to collaborate on **AI-Powered Chatbots** and **Full-Stack Web Projects**
-- 🤝 Seeking collaboration on **Web3 DApps** and **ASP.NET + React** projects
-- 💬 Ask me about **HTML · CSS · JavaScript · Flutter · ASP.NET · C# · Python**
-- 📫 Reach me at **kuttappisarang629@gmail.com**
+- 🚀 Building scalable **Full-Stack Applications** using **React.js, Node.js, Express.js, ASP.NET, FastAPI, MongoDB, SQL, and modern JavaScript**
+
+- 🌱 Currently learning **AWS Cloud, Agentic AI, System Design, Microservices, and Backend Architecture**
+
+- 🤝 Open to collaborating on **Software Engineering, Full-Stack Development, AI-powered Applications, and Open Source Projects**
+
+- 🎨 Passionate about crafting **responsive UI/UX designs** that combine usability with modern design principles
+
+- 💬 Ask me about **React.js, Node.js, Express.js, ASP.NET, Python, FastAPI, JavaScript, REST APIs, MongoDB, SQL, Git, Docker, and UI/UX Design**
+
+<p>
+<a href="https://threejs-1-wmoh.onrender.com">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=2500&pause=1000&color=00C853&width=300&lines=🚀+Explore+My+Portfolio" />
+</a>
+</p>
+
+<p>
+<a href="mailto:kuttappisarang629@gmail.com">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=2500&pause=1000&color=EA4335&width=250&lines=📧+Contact+Me" />
+</a>
+</p>
+
+
 
 ---
 
